@@ -3,7 +3,7 @@
 {
 	"name": "Python 3",
 	// Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
-	"image": "egslingjun-registry.cn-wulanchabu.cr.aliyuncs.com/egslingjun/inference-xpu-pytorch:25.05-v1.5.1-vllm0.8.5-torch2.6-cu126-20250512",
+	"image": "ghcr.io/matheusfvesco/devcontainer-templates/pytorch-gpu:0.1.0",
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
 	// "features": {},
